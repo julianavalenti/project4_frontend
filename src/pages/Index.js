@@ -7,7 +7,7 @@ function Index(props) {
         name: "",
         photo: "",
         quote:"",
-        linkedIn: "",
+        linkedin: "",
         location:""
 
       });
@@ -25,7 +25,7 @@ function Index(props) {
         name: "",
         photo: "",
         quote:"",
-        linkedIn: "",
+        linkedin: "",
         location:""
 
     });
